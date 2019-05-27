@@ -1,7 +1,3 @@
-Discontinued
-============
-This repository is no longer actively maintained. You may fork it if need be.
-
 # tomcat-classloader-ordered
 
 A classloader for Apache Tomcat 8 which loads the jars of WEB-INF lib in alphabetical order.
@@ -17,7 +13,7 @@ The code is very simple and should be (hopefully!) bug free.
 
 ## Compatibility
 
-This classloader should be compatible with Apache Tomcat 8.0.x and 8.5.x.
+This classloader should be compatible with Apache Tomcat 8.5.28 and above.
 
 ## How to use
 
@@ -37,3 +33,5 @@ That's all!
 ## License
 
 This project is licensed under the Apache License version 2.0.
+
+This fork, update to java 1.8
